@@ -23,5 +23,5 @@ I am dedicating 100% of my time to mastering code, attending two intensive cours
 ---
 
 #### 📫 Connect with me
-* [LinkedIn](linkedin.com/in/saralondreira)
+* [LinkedIn](https://linkedin.com/in/saralondreira)
 * [Email](mailto:saralondreira@gmail.com)
