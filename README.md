@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Sara! 👋
 
-<!--
-**saralondreira/saralondreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student based in Portugal, currently transitioning from a background in specialized Tech Retail to Engineering.
 
-Here are some ideas to get you started:
+I am dedicating 100% of my time to mastering code, attending two intensive courses simultaneously (CTeSP at ISEP + CET at IEFP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tech Stack & Tools
+* **Languages:** C# (.NET), Java, Python, SQL, C
+* **Mobile:** Android Development
+* **Methodologies:** Scrum & Agile
+* **Interests:** Cybersecurity, Backend Development
+
+---
+
+#### 🚀 About Me
+* 🎓 Studying **Agile Software Development** @ ISEP
+* 🎓 Studying **Technologies & Programming of Information Systems** @ IEFP
+* 💼 Former **Tech Specialist** (Apple & Informatics) -> I bring strong communication and problem-solving skills to the dev team.
+* 🌱 Currently learning: **Algorithms, Data Structures & OOP**
+
+---
+
+#### 📫 Connect with me
+* [LinkedIn](linkedin.com/in/saralondreira)
+* [Email](mailto:saralondreira@gmail.com)
